@@ -1,0 +1,17 @@
+torch
+torchaudio
+torchmetrics 
+omegaconf==2.0.6
+git+https://github.com/lhotse-speech/lhotse 
+numba==0.48 
+gradio
+pip==23.3
+librosa 
+encodec 
+phonemizer 
+matplotlib 
+speechbrain 
+transformers==4.45.1
+resampy 
+amfm_decompy
+git+https://github.com/openai/whisper.git
