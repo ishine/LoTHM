@@ -4,7 +4,7 @@
 <!-- Inference code and model weights for our model LoTHM.  -->
 
 <p align="center">
-<a href='[https://arxiv.org/abs/2407.12206](https://arxiv.org/pdf/2410.21502)'><img src='https://img.shields.io/badge/ArXiv-PDF-red'></a>
+   <a href='https://arxiv.org/pdf/2410.21502'><img src='https://img.shields.io/badge/ArXiv-PDF-red'></a>
    <a href='https://pages.cs.huji.ac.il/adiyoss-lab/LoTHM/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
    <a href='https://colab.research.google.com/drive/1nTYKgku8oGfPrHLOD2NifYqpR4EYC7_O?usp=sharing'><img src='https://colab.research.google.com/assets/colab-badge.svg'></a> 
    <a href='https://github.com/ellazeldes/LoTHM'><img src='https://badges.aleen42.com/src/github.svg'></a> 
